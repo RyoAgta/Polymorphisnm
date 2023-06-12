@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\bin\Debug\net6.0\Polymorpishm.exe
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\bin\Debug\net6.0\Polymorpishm.deps.json
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\bin\Debug\net6.0\Polymorpishm.runtimeconfig.json
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\bin\Debug\net6.0\Polymorpishm.dll
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\bin\Debug\net6.0\Polymorpishm.pdb
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.dll
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\refint\Polymorpishm.dll
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.pdb
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\Polymorpishm.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Polymorpishm\Polymorpishm\obj\Debug\net6.0\ref\Polymorpishm.dll
